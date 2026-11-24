@@ -1,0 +1,13 @@
+Bien SPI — Cadastre hors ligne du Rhône et de la Métropole de Lyon
+
+Données publiques DGFiP / Etalab, parcelles et bâtiments, millésime 2026-09-01.
+https://www.data.gouv.fr/datasets/cadastre/
+https://cadastre.data.gouv.fr/data/etalab-cadastre/2026-09-01/geojson/departements/69/
+
+Base Adresse Nationale, extraction Rhône du 2026-11-24.
+https://www.data.gouv.fr/datasets/base-adresse-nationale/
+https://adresse.data.gouv.fr/data/ban/adresses/latest/csv/adresses-69.csv.gz
+
+Licence Ouverte Etalab.
+Le fichier a été reprojeté et découpé en tuiles pour l’utilisation hors ligne dans Bien SPI.
+SHA-256 9934d826ddeebabbd5acb3512ef51a4ca376cfaddb1e71e09a250cdd7b56c1fa
