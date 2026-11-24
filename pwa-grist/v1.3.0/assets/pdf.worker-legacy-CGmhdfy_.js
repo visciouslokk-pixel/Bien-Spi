@@ -1,0 +1,1 @@
+(function(){System.register([],function(e,t){return{setters:[],execute:function(){e(`t`,`/Bien-Spi/pwa-grist/v1.3.0/assets/pdf.worker-DTrjDNvb.mjs`)}}})})();
