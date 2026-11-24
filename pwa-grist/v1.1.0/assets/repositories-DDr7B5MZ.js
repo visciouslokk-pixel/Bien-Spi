@@ -1,0 +1,1 @@
+import{m as e,p as t}from"./schemas-u5cKwCxt.js";function n(e=`id`){return`${e}-${globalThis.crypto?.randomUUID?.()??`${Date.now()}-${Math.random().toString(36).slice(2)}`}`}e();var r=class extends Error{constructor(e,n){super(n),t(this,`code`,void 0),this.code=e,this.name=`RepositoryError`}};export{n,r as t};
