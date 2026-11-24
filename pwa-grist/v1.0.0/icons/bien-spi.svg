@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Bien SPI">
+  <rect width="512" height="512" rx="112" fill="#0b3a53"/>
+  <path d="M92 238 256 98l164 140v174a28 28 0 0 1-28 28H120a28 28 0 0 1-28-28Z" fill="#fff"/>
+  <path d="M190 440V286h132v154" fill="#19a974"/>
+  <circle cx="256" cy="222" r="48" fill="#f0b429"/>
+  <path d="m235 222 15 15 30-35" fill="none" stroke="#0b3a53" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

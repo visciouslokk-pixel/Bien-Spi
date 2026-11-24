@@ -1,0 +1,1 @@
+function e(e=`id`){return`${e}-${globalThis.crypto?.randomUUID?.()??`${Date.now()}-${Math.random().toString(36).slice(2)}`}`}var t=class extends Error{code;constructor(e,t){super(t),this.code=e,this.name=`RepositoryError`}};export{e as n,t};
